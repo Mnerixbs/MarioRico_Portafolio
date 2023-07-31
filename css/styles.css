@@ -1,0 +1,26 @@
+
+
+:root{
+    --marino: #232b38;
+    --amarillo: #eaac31;
+    --naranja: #ce762f;
+    --verdea: #5aae7d;
+    --verdeb: #28504a;
+
+}
+/* main{
+    height: 100vh;
+    background: linear-gradient(to top, rgb(0 0 0), rgb(0 0 0 / 0%)), url(../img/stars-g4ab00499c_1920.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main .circle{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+}
+
+header .nav{
+} */
